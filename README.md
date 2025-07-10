@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/SayanRouth05" target="blank"><img align="center" src="https://www.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_57642948.htm#fromView=keyword&page=1&position=2&uuid=a1c5d81f-be45-4e8d-9744-d179163e9566&query=X+Logo" alt="sayanrouth05" height="30" width="40" /></a>
+<a href="https://x.com/SayanRouth05" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" alt="sayanrouth05" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sayan-routh-19bb15329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan routh" height="30" width="40" /></a>
 <a href="https://instagram.com/sayanrouth_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayanrouth_" height="30" width="40" /></a>
 </p>
