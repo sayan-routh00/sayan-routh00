@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://sayan-routh00.io)
+[![MasterHead](https://sircltech.com/assets/images/1_OF0xEMkWBv-69zvmNs6RDQ.gif)](https://sayan-routh00.io)
 
 <h1 align="center">Hi, I'm Sayan Routh</h1>
 <h3 align="center">Have Passion Computer Science</h3>
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/SayanRouth05" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" alt="sayanrouth05" height="30" width="40" /></a>
+<a href="https://x.com/SayanRouth05" target="blank"><img align="center" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNTAgNTAiIHdpZHRoPSI1MHB4IiBoZWlnaHQ9IjUwcHgiPjxwYXRoIGQ9Ik0gMTEgNCBDIDcuMTM0IDQgNCA3LjEzNCA0IDExIEwgNCAzOSBDIDQgNDIuODY2IDcuMTM0IDQ2IDExIDQ2IEwgMzkgNDYgQyA0Mi44NjYgNDYgNDYgNDIuODY2IDQ2IDM5IEwgNDYgMTEgQyA0NiA3LjEzNCA0Mi44NjYgNCAzOSA0IEwgMTEgNCB6IE0gMTMuMDg1OTM4IDEzIEwgMjEuMDIzNDM4IDEzIEwgMjYuNjYwMTU2IDIxLjAwOTc2NiBMIDMzLjUgMTMgTCAzNiAxMyBMIDI3Ljc4OTA2MiAyMi42MTMyODEgTCAzNy45MTQwNjIgMzcgTCAyOS45Nzg1MTYgMzcgTCAyMy40Mzc1IDI3LjcwNzAzMSBMIDE1LjUgMzcgTCAxMyAzNyBMIDIyLjMwODU5NCAyNi4xMDM1MTYgTCAxMy4wODU5MzggMTMgeiBNIDE2LjkxNDA2MiAxNSBMIDMxLjAyMTQ4NCAzNSBMIDM0LjA4NTkzOCAzNSBMIDE5Ljk3ODUxNiAxNSBMIDE2LjkxNDA2MiAxNSB6Ii8+PC9zdmc+" alt="sayanrouth05" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sayan-routh-19bb15329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan routh" height="30" width="40" /></a>
 <a href="https://instagram.com/sayanrouth_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayanrouth_" height="30" width="40" /></a>
 </p>
